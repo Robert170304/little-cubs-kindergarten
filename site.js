@@ -89,7 +89,7 @@ const staffProfiles = [
       name: "marry willson",
       job: "art teacher",
       img:
-        "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/team-3.jpg",
+        "https://ingridkuhn.com/themes/alphabet/img/team1.jpg",
       text:
         "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
         courses: ['drawing course','outdoor activity']
@@ -99,7 +99,7 @@ const staffProfiles = [
       name: "anna johnson",
       job: "art teacher",
       img:
-        "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/team-2.jpg",
+        "https://ingridkuhn.com/themes/alphabet/img/team4.jpg",
       text:
         "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.",
         courses: ['watercolor drawing','cooking lesson']
@@ -109,7 +109,7 @@ const staffProfiles = [
       name: "jane doe",
       job: "caretaker",
       img:
-        "http://www.nicdarkthemes.com/themes/children/wp/demo/wp-content/uploads/2018/09/team-1.jpg",
+        "https://ingridkuhn.com/themes/alphabet/img/team3.jpg",
       text:
         "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
         courses: ['Orienteering']
